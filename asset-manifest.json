@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/genius-playground/static/css/main.073c9b0a.css",
+    "main.js": "/genius-playground/static/js/main.d522ed83.js",
+    "index.html": "/genius-playground/index.html",
+    "main.073c9b0a.css.map": "/genius-playground/static/css/main.073c9b0a.css.map",
+    "main.d522ed83.js.map": "/genius-playground/static/js/main.d522ed83.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d522ed83.js"
+  ]
+}
